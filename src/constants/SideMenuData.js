@@ -10,13 +10,5 @@ export const sideMenuData = [
     icon: <HomeIcon />,
     route: "/",
   },
-  // {
-  //   text: "Chat",
-  //   icon: <ChatIcon />,
-  //   route: "/chat",
-  // },
-  // {
-  //   text: "",
-  //   icon: < />,
-  // },
+  
 ];
